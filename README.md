@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm c-reetz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-reetz&label=Profile%20views&color=0e75b6&style=flat" alt="c-reetz" /> </p>
 
+<h3 align="left">Various Projects Not in my public repos:</h3>
+<p align="left">
+<a href="https://github.com/AROX-BOTS/AROX" target="blank">AROX Bots NFT bot (First edition)</a>
+<a href="https://github.com/Raijin-Security" target="blank">Raijin, mostly closed source in there (shh)</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cardencryption" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cardencryption" height="30" width="40" /></a>
