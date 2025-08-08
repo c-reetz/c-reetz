@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm c-reetz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-reetz&label=Profile%20views&color=0e75b6&style=flat" alt="c-reetz" /> </p>
 
-- 📝 I sometimes write articles on [https://corneliusreetz.com](https://corneliusreetz.com) or [https://raijin.dk](https://raijin.dk)
+- 📝 I sometimes write articles on [https://corneliusreetz.com](https://corneliusreetz.com) or [https://raijin.dk/blog](https://raijin.dk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
